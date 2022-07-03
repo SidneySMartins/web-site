@@ -1,3 +1,5 @@
 # Git arquivos
 
 logs
+
+#Bar
